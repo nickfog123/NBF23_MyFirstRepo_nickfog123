@@ -11,4 +11,4 @@
 * This is me experimenting with **bold text** in case I want to emphasize something. 
 * *This is italics for notes to myself.*  
 * ***It's cool how you can also do bold and italic together for a lot of emphasis.***
-* ~~this is a text for thoughts that i corrected~~~
+* ~~this is a text for thoughts that i corrected~~
